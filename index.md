@@ -25,5 +25,6 @@ The algorithm was tested using the MNIST dataset, a set of 70,000 greyscale imag
 ![](img/zero_with_dots.png)
 
 <video width="1080" height="720" controls>
-  <source src="vid/demo.mov" type=video/mov>
+  <source src="vid/demo.mp4" type="video/mp4">
+  Video cannot be displayed. Browser must support MP4 video display.
 </video>
