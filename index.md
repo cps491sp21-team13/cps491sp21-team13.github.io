@@ -20,9 +20,10 @@ From the humble linear regression to today's deep neural networks, learning syst
 
 ### Evolutionary Equation Learning
 
-The algorithm was tested using the MNIST dataset, a set of 70,000 greyscale images of handwritten digits.
+The algorithm was tested using the MNIST dataset, a set of 70,000 greyscale images of handwritten digits. It relies on an evolutionary process of mutation and selection on a group of candidate polynomials. The images below show a 10-term 5th-degree polynomial over eight of the input pixels.
 
 ![](img/zero_with_dots.png)
+![](img/learned_equation.png)
 
 <video width="1080" height="720" controls>
   <source src="vid/demo.mp4" type="video/mp4">
